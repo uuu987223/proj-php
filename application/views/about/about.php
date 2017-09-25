@@ -24,7 +24,7 @@
 					<br> 帮您节省更多的时间去陪伴家人和朋友
 					<br> 替您有品味的管理家庭事务
 					<br> 不仅仅是拥有管家，是更高品质的生活方式 </p>
-				<a href="packages.html" class="go">点击进入套餐页面，即可享有</a>
+				<a href="/index.php/StaticHtml/packages" class="go">点击进入套餐页面，即可享有</a>
 			</div>
 
 			<div class="txt">

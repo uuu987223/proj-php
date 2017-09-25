@@ -38,7 +38,7 @@
 			</ul>
 			<img src="<?php echo $host;?>img/packages/3.png" alt="">
 			<div class="btnsBox clearfix">
-				<a href="service" class="btns">订购服务</a><a href="free" class="btns">免费体验</a>
+				<a href="/index.php/StaticHtml/shenqing" class="btns">订购服务</a><a href="/index.php/StaticHtml/shenqing" class="btns">免费体验</a>
 			</div>
 		</div>
 

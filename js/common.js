@@ -33,7 +33,7 @@ function getCode(obj) {
 		showMsg('请输入正确的手机号！');
 		return;
 	}
-
+        $.ajax({url:"/index.php/Login/getcode?phone="+loginObj.tel.val(),async:false});
 	loginObj.code.val('(' + loginObj.num + 's)')
 		.addClass('active');
 	loginObj.timer = setInterval(function() {

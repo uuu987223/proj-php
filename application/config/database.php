@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'rdsapa6puvcxu4718qz0n.mysql.rds.aliyuncs.com',
-	'username' => 'dbjsa',
-	'password' => 'dbjsapass',
-	'database' => 'mw',
+	'hostname' => '47.93.30.120',
+	'username' => 'xinghuawang',
+	'password' => 'hua987223',
+	'database' => 'service',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
