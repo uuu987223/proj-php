@@ -94,6 +94,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <li><a href="index.php/StaticHtml/shenqing">申请</a></li>
             <li><a href="index.php/StaticHtml/fanwei">服务范围</a></li>
             <li><a href="index.php/StaticHtml/fzs">发展史</a></li>
+            <li><a href="index.php/Login/index">登录页</a></li>
         </ul>
 </div>
 
